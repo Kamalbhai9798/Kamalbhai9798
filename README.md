@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamalbhai9798
+- 👋 Hi, I’m @Deepak
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning backens development
 - 💞️ I’m looking to collaborate on ...
